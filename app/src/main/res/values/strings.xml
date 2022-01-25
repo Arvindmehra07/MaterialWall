@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialWall</string>
+    <string name="made_with">Made with </string>
+    <string name="maker_name">Arvind Mehra</string>
+    <string name="str_by">By</string>
+    <string name="str_size">Size</string>
+    <string name="str_provided_by">Provided by</string>
+    <string name="str_wallpaper">Wallpaper</string>
+    <string name="home">Home</string>
+    <string name="category">Category</string>
+    <string name="favourites">Favourites</string>
+    <string name="error">Something went wrong!</string>
+    <string name="search">Search</string>
+</resources>
